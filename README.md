@@ -10,3 +10,5 @@ JetFI Enhanced Is a Minecraft Shader With Slight Graphical Improvements.
 <H1 align = "left"> Downloads </H1>
 
 [![MediaFire](https://img.shields.io/badge/MediaFire-1299F3?logo=mediafire&logoColor=fff&style=flat-square)](https://www.mediafire.com/folder/g65z7z71dalbw/JetFI+Enhanced)
+
+<img src = "docs/work_ink.png" align = "left" width = "81" height = "41" alt = "Work.ink">
