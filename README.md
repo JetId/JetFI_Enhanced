@@ -3,5 +3,4 @@
 
 JetFI Enhanced Is a Minecraft Shader With Slight Graphical Improvements.
 
-##### JetFI Enhanced Icon
-![img](docs/pack_icon.png)
+[![Twitter](https://img.shields.io/twitter/follow/plaunchteam?color=blue&style=flat-square)](https://twitter.com/NMcpe222)
