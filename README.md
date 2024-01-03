@@ -9,7 +9,7 @@ JetFI Enhanced Is a Minecraft Shader With Slight Graphical Improvements.
 
 <H1 align = "left">Downloads</H1>
 
-<a href = https://workink.net/1SXW/lqojfwzl>
+<a href = index.html>
 <img src = "docs/downloads.png" align = "left" width = "30" height = "30" alt = "Downloads">
 <strong>Downloads</strong>
 </a>
